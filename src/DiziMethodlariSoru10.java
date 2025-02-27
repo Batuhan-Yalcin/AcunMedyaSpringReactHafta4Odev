@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArrayListMethodlarıSoru10 {
+public class DiziMethodlariSoru10 {
     public static void main(String[] args) {
 
         //SORT -> Diziyi küçükten büyüğe, alfabetik sıralar stringse alfabetik int se küçük büyük
